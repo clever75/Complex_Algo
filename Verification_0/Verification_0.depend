@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1773858699 source:c:\users\clever\trix.com\verification_0\main.c
+	<stdio.h>
+	<stdlib.h>
+
